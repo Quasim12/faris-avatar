@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+openai
+numpy
+tiktoken
+python-dotenv
+httpx
+livekit-api
+livekit-agents==1.8.3
+livekit-plugins-synthesia==1.8.3
